@@ -1,0 +1,23 @@
+Anggota Kelompok:
+-----------------
+2201791654 - Dirk Alvaro
+2201797922 - Devin Liestian Williady
+2201792921 - Kadek Agus Pradnya Bayu Putra
+2201798686 - Kenny Ongko
+
+File yang dikumpulkan:
+----------------------
+1. Entity Relationship Diagram (.vsdx, .png)
+File name: ERD_RamenShopBDDK
+
+2. Query to create the database system. (.sql)
+File name: Create_RamenShopBDDK
+
+3. Query to insert data into tables. (.sql)
+File name: Insert_RamenShopBDDK
+
+4. Query to simulate the transactions processes. (.sql)
+File name: Simulate_RamenShopBDDK
+
+5. Query to answer the 10 cases. (.sql)
+File name: Case_RamenShopBDDK
